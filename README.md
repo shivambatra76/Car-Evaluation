@@ -31,9 +31,11 @@ Missing Attribute Values: none
 
 Class Distribution (number of instances per class)
 
-   class      N          N[%]
+##   class      N          N[%]
    -----------------------------
-   unacc     1210     (70.023 %) 
+   unacc     1210     (70.023 %)
+   
    acc        384     (22.222 %) 
+   
    good        69     ( 3.993 %) 
    v-good      65     ( 3.762 %) 

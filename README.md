@@ -38,4 +38,5 @@ Class Distribution (number of instances per class)
    acc        384     (22.222 %) 
    
    good        69     ( 3.993 %) 
+   
    v-good      65     ( 3.762 %) 
